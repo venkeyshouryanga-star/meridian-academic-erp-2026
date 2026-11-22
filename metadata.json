@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Academic ERP",
+  "description": "College Student Marks Management System with role-based Admin, Teacher, Student, and HOD portals, automatic grading, analytics, and PDF/Excel reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
